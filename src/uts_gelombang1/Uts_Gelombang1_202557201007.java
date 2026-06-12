@@ -8,7 +8,7 @@ package uts_gelombang1;
  *
  * @author HP 14s Ryzen
  */
-public class Uts_Gelombang1 {
+public class Uts_Gelombang1_202557201007 {
 
     /**
      * @param args the command line arguments
